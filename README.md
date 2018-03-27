@@ -21,5 +21,7 @@ Add your Youtube Data API key in  "config.php"
 4. jQuery
 5. PHP.net
 
+#### Note: I created this very quickly, there will be few bugs and coding issue.
+
 Powered by:
-http://mp3ora.com/
+# http://mp3ora.com/
