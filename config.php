@@ -1,6 +1,6 @@
 <?php
 $title="Youtube Channel Video Extract";
-$youtube_api='AIzaSyD0IxF23_IEJyvawA9Ur02TvcbKN6OLPOY';
+$youtube_api='Youtube-API-Key';
 $result_count=50; // Maximum 50 results from a channel!
 
 /**
